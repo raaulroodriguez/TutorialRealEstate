@@ -1,0 +1,184 @@
+{
+  "locations": [
+    {
+      "id": 0,
+      "name": "Acme Fresh Start Housing",
+      "city": "Chicago",
+      "state": "IL",
+      "photo": "https://angular.dev/assets/images/tutorials/common/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
+      "availableUnits": 4,
+      "wifi": true,
+      "laundry": true,
+      "coordinate": [
+        {
+          "latitude": 28.861,
+          "longitude": -265.901
+        }
+      ],
+      "price": "230.000",
+      "available": false
+    },
+    {
+      "id": 1,
+      "name": "A113 Transitional Housing",
+      "city": "Santa Monica",
+      "state": "CA",
+      "photo": "https://angular.dev/assets/images/tutorials/common/brandon-griggs-wR11KBaB86U-unsplash.jpg",
+      "availableUnits": 0,
+      "wifi": false,
+      "laundry": true,
+      "coordinate": [
+        {
+          "latitude": 34.0194,
+          "longitude": -118.4912
+        }
+      ],
+      "price": "450.000",
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "Warm Beds Housing Support",
+      "city": "Juneau",
+      "state": "AK",
+      "photo": "https://angular.dev/assets/images/tutorials/common/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
+      "availableUnits": 1,
+      "wifi": false,
+      "laundry": false,
+      "coordinate": [
+        {
+          "latitude": 58.3019,
+          "longitude": -134.4197
+        }
+      ],
+      "price": "185.500",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Homesteady Housing",
+      "city": "Chicago",
+      "state": "IL",
+      "photo": "https://angular.dev/assets/images/tutorials/common/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+      "availableUnits": 1,
+      "wifi": true,
+      "laundry": false,
+      "coordinate": [
+        {
+          "latitude": 41.8781,
+          "longitude": -87.6298
+        }
+      ],
+      "price": "310.000",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Happy Homes Group",
+      "city": "Gary",
+      "state": "IN",
+      "photo": "https://angular.dev/assets/images/tutorials/common/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
+      "availableUnits": 1,
+      "wifi": true,
+      "laundry": false,
+      "coordinate": [
+        {
+          "latitude": 41.5934,
+          "longitude": -87.3464
+        }
+      ],
+      "price": "125.000",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Hopeful Apartment Group",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.dev/assets/images/tutorials/common/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
+      "availableUnits": 2,
+      "wifi": true,
+      "laundry": true,
+      "coordinate": [
+        {
+          "latitude": 37.8044,
+          "longitude": -122.2712
+        }
+      ],
+      "price": "520.000",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.dev/assets/images/tutorials/common/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
+      "availableUnits": 5,
+      "wifi": true,
+      "laundry": true,
+      "coordinate": [
+        {
+          "latitude": 37.8045,
+          "longitude": -122.2711
+        }
+      ],
+      "price": "415.000",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Hopeful Housing Solutions",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.dev/assets/images/tutorials/common/r-architecture-GGupkreKwxA-unsplash.jpg",
+      "availableUnits": 2,
+      "wifi": true,
+      "laundry": true,
+      "coordinate": [
+        {
+          "latitude": 37.8046,
+          "longitude": -122.2710
+        }
+      ],
+      "price": "380.000",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Seriously Safe Towns",
+      "city": "Oakland",
+      "state": "CA",
+      "photo": "https://angular.dev/assets/images/tutorials/common/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+      "availableUnits": 10,
+      "wifi": false,
+      "laundry": false,
+      "coordinate": [
+        {
+          "latitude": 37.8047,
+          "longitude": -122.2709
+        }
+      ],
+      "price": "295.000",
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Capital Safe Towns",
+      "city": "Portland",
+      "state": "OR",
+      "photo": "https://angular.dev/assets/images/tutorials/common/webaliser-_TPTXZd9mOo-unsplash.jpg",
+      "availableUnits": 6,
+      "wifi": true,
+      "laundry": true,
+      "coordinate": [
+        {
+          "latitude": 45.5152,
+          "longitude": -122.6784
+        }
+      ],
+      "price": "610.000",
+      "available": true
+    }
+  ]
+}

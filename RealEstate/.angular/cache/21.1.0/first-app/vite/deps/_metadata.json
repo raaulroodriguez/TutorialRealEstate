@@ -1,0 +1,70 @@
+{
+  "hash": "5cf57a32",
+  "configHash": "6e4b6436",
+  "lockfileHash": "f6b6cb88",
+  "browserHash": "a311daeb",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "8ed35785",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "e36e7289",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "6972f5f4",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "1ddf1f48",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "f2d64824",
+      "needsInterop": false
+    },
+    "leaflet": {
+      "src": "../../../../../../node_modules/leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "f6b770de",
+      "needsInterop": true
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "bfde8040",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-CNCKPA4W": {
+      "file": "chunk-CNCKPA4W.js"
+    },
+    "chunk-VPTJURKM": {
+      "file": "chunk-VPTJURKM.js"
+    },
+    "chunk-33NOUNS7": {
+      "file": "chunk-33NOUNS7.js"
+    },
+    "chunk-6ZPQDY4O": {
+      "file": "chunk-6ZPQDY4O.js"
+    },
+    "chunk-BBHYAL7P": {
+      "file": "chunk-BBHYAL7P.js"
+    },
+    "chunk-3OV72XIM": {
+      "file": "chunk-3OV72XIM.js"
+    }
+  }
+}
