@@ -5,6 +5,7 @@ import {HousingLocationInfo} from '../housinglocation';
 import {FormControl, FormGroup, ReactiveFormsModule} from '@angular/forms';
 import {HttpClient} from "@angular/common/http";
 import * as L from 'leaflet';
+import {ResilientHousingService} from "../resilient-housing-service";
 
 @Component({
     selector: 'app-details',
@@ -60,6 +61,7 @@ import * as L from 'leaflet';
 export class Details {
     private readonly changeDetectorRef = inject(ChangeDetectorRef);
     route: ActivatedRoute = inject(ActivatedRoute);
+    resilientHousingService = inject(ResilientHousingService);
     housingService = inject(HousingService);
     http = inject(HttpClient);
 
@@ -76,7 +78,7 @@ export class Details {
     constructor() {
         const housingLocationId = parseInt(this.route.snapshot.params['id'], 10);
 
-        this.housingService.getHousingLocationById(housingLocationId).then((housingLocation) => {
+        this.resilientHousingService.getHousingLocationById(housingLocationId).then((housingLocation) => {
             this.housingLocation = housingLocation;
             if (housingLocation && housingLocation.coordinate && housingLocation.coordinate.length > 0) {
                 const lat = housingLocation.coordinate[0].latitude;
