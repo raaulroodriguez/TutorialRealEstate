@@ -1,0 +1,50 @@
+
+li {
+    list-style-type: none;
+}
+.listing-apply .section-heading {
+    font-size: 18pt;
+    margin-bottom: 15px;
+}
+label,
+input {
+    display: block;
+}
+label {
+    color: var(--secondary-color);
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 12pt;
+}
+input {
+    font-size: 16pt;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 400px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: solid 0.3px;
+}
+
+.btn {
+    padding: 10px;
+    border: solid 1px var(--primary-color);
+    background: var(--primary-color);
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn:invalid {
+    background: red;
+    cursor: pointer;
+}
+
+@media (max-width: 1024px) {
+    .listing-photo {
+        width: 100%;
+        height: 400px;
+    }
+}

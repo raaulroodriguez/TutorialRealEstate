@@ -19,7 +19,7 @@ export class HousingService {
     return locationJson[0] ?? {};
   }
 
-  submitApplication(firstName: string, lastName: string, email: string) {
+  submitApplication(firstName: string, lastName: string, email: string, p0: string, p1: string, p2: string) {
     console.log(firstName, lastName, email);
   }
 }

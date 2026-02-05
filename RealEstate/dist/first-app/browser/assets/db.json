@@ -1,7 +1,7 @@
 {
   "locations": [
     {
-      "id": "0",
+      "id": 0,
       "name": "Acme Fresh Start Housing",
       "city": "Chicago",
       "state": "IL",
@@ -19,7 +19,7 @@
       "available": false
     },
     {
-      "id": "1",
+      "id": 1,
       "name": "A113 Transitional Housing",
       "city": "Santa Monica",
       "state": "CA",
@@ -37,7 +37,7 @@
       "available": false
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Warm Beds Housing Support",
       "city": "Juneau",
       "state": "AK",
@@ -55,7 +55,7 @@
       "available": true
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Homesteady Housing",
       "city": "Chicago",
       "state": "IL",
@@ -73,7 +73,7 @@
       "available": true
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Happy Homes Group",
       "city": "Gary",
       "state": "IN",
@@ -91,7 +91,7 @@
       "available": true
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Hopeful Apartment Group",
       "city": "Oakland",
       "state": "CA",
@@ -109,7 +109,7 @@
       "available": true
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Seriously Safe Towns",
       "city": "Oakland",
       "state": "CA",
@@ -127,7 +127,7 @@
       "available": true
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Hopeful Housing Solutions",
       "city": "Oakland",
       "state": "CA",
@@ -138,14 +138,14 @@
       "coordinate": [
         {
           "latitude": 37.8046,
-          "longitude": -122.271
+          "longitude": -122.2710
         }
       ],
       "price": "380.000",
       "available": true
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Seriously Safe Towns",
       "city": "Oakland",
       "state": "CA",
@@ -163,7 +163,7 @@
       "available": true
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "Capital Safe Towns",
       "city": "Portland",
       "state": "OR",

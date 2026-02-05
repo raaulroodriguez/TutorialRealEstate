@@ -85,6 +85,20 @@ input {
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
+.btn {
+    padding: 10px;
+    border: solid 1px var(--primary-color);
+    background: var(--primary-color);
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
 
 @media (max-width: 1024px) {
     .listing-photo {

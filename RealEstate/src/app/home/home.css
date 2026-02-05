@@ -24,6 +24,20 @@ button {
   border-radius: 8px;
 }
 
+.btn {
+  padding: 10px;
+  border: solid 1px var(--primary-color);
+  background: var(--primary-color);
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+select {
+    margin: 5px;
+    padding: 10px;
+}
+
 @media (min-width: 500px) and (max-width: 768px) {
   .results {
       grid-template-columns: repeat(2, 1fr);
